@@ -1,0 +1,13 @@
+{
+  "name": "component-underscore",
+  "description": "JavaScript's functional programming helper library.",
+  "version": "1.3.3",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "dependencies": {}
+}
